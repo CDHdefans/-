@@ -1,8 +1,8 @@
 .claude/
+.codex/
 
 # Local/editor noise
 .DS_Store
 Thumbs.db
 *.tmp
 *.bak
-
